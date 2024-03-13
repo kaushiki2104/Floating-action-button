@@ -1,0 +1,29 @@
+.transparent-div {
+    background-color: rgba(255, 255, 255, 0.3); 
+}
+
+.form_background {
+    background: rgb(235, 232, 232);
+}
+
+.text_area_control {
+    resize: none;
+}
+
+  .bottom_resp{
+    bottom: 2.5rem
+  }
+
+
+@media screen and (max-width: 600px) {
+    
+    .form_background {
+        margin-right: -5rem;
+    }
+
+    .bottom_resp {
+  bottom: 6.5rem
+    }
+}
+
+

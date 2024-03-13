@@ -1,0 +1,11 @@
+
+.directon_control_option {
+    display: flex;
+    flex-direction: column;
+    color: red;
+}
+
+.directoin_control_main {
+    display: flex;
+    flex-direction: column;
+}
